@@ -1,0 +1,43 @@
+{
+  "prepare_queue": {
+    "installed": [],
+    "uninstalled": []
+  },
+  "config_munge": {
+    "files": {}
+  },
+  "installed_plugins": {
+    "com.unarin.cordova.beacon": {
+      "PACKAGE_NAME": "com.ionicframework.booking"
+    },
+    "cordova-plugin-background-mode": {
+      "PACKAGE_NAME": "com.ionicframework.booking"
+    },
+    "cordova-plugin-device": {
+      "PACKAGE_NAME": "com.ionicframework.booking"
+    },
+    "cordova-plugin-ionic-webview": {
+      "PACKAGE_NAME": "com.ionicframework.booking"
+    },
+    "cordova-plugin-local-notification": {
+      "PACKAGE_NAME": "com.ionicframework.booking"
+    },
+    "cordova-plugin-nativestorage": {
+      "PACKAGE_NAME": "com.ionicframework.booking"
+    },
+    "cordova-plugin-splashscreen": {
+      "PACKAGE_NAME": "com.ionicframework.booking"
+    },
+    "cordova-plugin-whitelist": {
+      "PACKAGE_NAME": "com.ionicframework.booking"
+    },
+    "ionic-plugin-keyboard": {
+      "PACKAGE_NAME": "com.ionicframework.booking"
+    }
+  },
+  "dependent_plugins": {
+    "cordova-plugin-badge": {
+      "PACKAGE_NAME": "com.ionicframework.booking"
+    }
+  }
+}

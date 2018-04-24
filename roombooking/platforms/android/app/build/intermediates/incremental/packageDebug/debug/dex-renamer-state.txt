@@ -1,0 +1,4 @@
+#Mon Apr 23 10:20:01 BST 2018
+base.0=/Users/katemullan/Booking/roombooking/platforms/android/app/build/intermediates/transforms/dexMerger/debug/0
+renamed.0=classes.dex
+file.0=/Users/katemullan/Booking/roombooking/platforms/android/app/build/intermediates/transforms/dexMerger/debug/0/classes.dex
